@@ -31,6 +31,6 @@ Key steps performed in the notebook:
 
 ## 🔧 Tech Stack
 
-- Python 🐍
-- Pandas 📊
-- Jupyter Notebook 📒
+- Python 
+- Pandas 
+- Jupyter Notebook 
